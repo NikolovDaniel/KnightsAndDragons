@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.4">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.4">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KnightsAndDragons.Core\KnightsAndDragons.Core.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Utilities\" />
+    <None Remove="Utilities\Messages\" />
+    <None Remove="DTOs\" />
+    <None Remove="DTOs\Import\" />
+    <None Remove="DTOs\Export\" />
+    <None Remove="Serializers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Utilities\" />
+    <Folder Include="Utilities\Messages\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="DTOs\Import\" />
+    <Folder Include="DTOs\Export\" />
+    <Folder Include="Serializers\" />
+  </ItemGroup>
+</Project>

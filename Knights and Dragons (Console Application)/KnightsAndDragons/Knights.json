@@ -1,0 +1,122 @@
+[
+  {
+    "UserId": 1,
+    "Name": "Knight1-User1",
+    "AttackPower": 20,
+    "Health": 150,
+    "Mana": 0,
+    "Level": 1,
+    "Experience": 0,
+    "Gold": 10
+  },
+  {
+    "UserId": 1,
+    "Name": "Knight2-User1",
+    "AttackPower": 20,
+    "Health": 150,
+    "Mana": 0,
+    "Level": 1,
+    "Experience": 0,
+    "Gold": 10
+  },
+  {
+    "UserId": 1,
+    "Name": "Knight3-User1",
+    "AttackPower": 20,
+    "Health": 150,
+    "Mana": 0,
+    "Level": 1,
+    "Experience": 0,
+    "Gold": 10
+  },
+  {
+    "UserId": 2,
+    "Name": "Knight1-User2",
+    "AttackPower": 20,
+    "Health": 150,
+    "Mana": 0,
+    "Level": 1,
+    "Experience": 0,
+    "Gold": 10
+  },
+  {
+    "UserId": 2,
+    "Name": "Knight2-User2",
+    "AttackPower": 20,
+    "Health": 150,
+    "Mana": 0,
+    "Level": 1,
+    "Experience": 0,
+    "Gold": 10
+  },
+  {
+    "UserId": 2,
+    "Name": "Knight3-User2",
+    "AttackPower": 20,
+    "Health": 150,
+    "Mana": 0,
+    "Level": 1,
+    "Experience": 0,
+    "Gold": 10
+  },
+  {
+    "UserId": 3,
+    "Name": "Knight1-User3",
+    "AttackPower": 20,
+    "Health": 150,
+    "Mana": 0,
+    "Level": 1,
+    "Experience": 0,
+    "Gold": 10
+  },
+  {
+    "UserId": 3,
+    "Name": "Knight2-User3",
+    "AttackPower": 20,
+    "Health": 150,
+    "Mana": 0,
+    "Level": 1,
+    "Experience": 0,
+    "Gold": 10
+  },
+  {
+    "UserId": 3,
+    "Name": "Knight3-User3",
+    "AttackPower": 20,
+    "Health": 150,
+    "Mana": 0,
+    "Level": 1,
+    "Experience": 0,
+    "Gold": 10
+  },
+  {
+    "UserId": 4,
+    "Name": "Knight1-User4",
+    "AttackPower": 20,
+    "Health": 150,
+    "Mana": 0,
+    "Level": 1,
+    "Experience": 0,
+    "Gold": 10
+  },
+  {
+    "UserId": 4,
+    "Name": "Knight2-User4",
+    "AttackPower": 20,
+    "Health": 150,
+    "Mana": 0,
+    "Level": 1,
+    "Experience": 0,
+    "Gold": 10
+  },
+  {
+    "UserId": 4,
+    "Name": "Knight3-User4",
+    "AttackPower": 20,
+    "Health": 150,
+    "Mana": 0,
+    "Level": 1,
+    "Experience": 0,
+    "Gold": 10
+  }
+]

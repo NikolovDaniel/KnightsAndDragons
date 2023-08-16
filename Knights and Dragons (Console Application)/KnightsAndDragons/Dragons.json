@@ -1,0 +1,82 @@
+[
+  {
+    "UserId": 1,
+    "Name": "Dragon1-User1",
+    "AttackPower": 20,
+    "Health": 150,
+    "Mana": 0,
+    "Level": 1,
+    "Experience": 0,
+    "Gold": 10
+  },
+  {
+    "UserId": 1,
+    "Name": "Dragon2-User1",
+    "AttackPower": 20,
+    "Health": 150,
+    "Mana": 0,
+    "Level": 1,
+    "Experience": 0,
+    "Gold": 10
+  },
+  {
+    "UserId": 2,
+    "Name": "Dragon1-User2",
+    "AttackPower": 20,
+    "Health": 150,
+    "Mana": 0,
+    "Level": 1,
+    "Experience": 0,
+    "Gold": 10
+  },
+  {
+    "UserId": 2,
+    "Name": "Dragon2-User2",
+    "AttackPower": 20,
+    "Health": 150,
+    "Mana": 0,
+    "Level": 1,
+    "Experience": 0,
+    "Gold": 10
+  },
+  {
+    "UserId": 3,
+    "Name": "Dragon1-User3",
+    "AttackPower": 20,
+    "Health": 150,
+    "Mana": 0,
+    "Level": 1,
+    "Experience": 0,
+    "Gold": 10
+  },
+  {
+    "UserId": 3,
+    "Name": "Dragon2-User3",
+    "AttackPower": 20,
+    "Health": 150,
+    "Mana": 0,
+    "Level": 1,
+    "Experience": 0,
+    "Gold": 10
+  },
+  {
+    "UserId": 4,
+    "Name": "Dragon1-User4",
+    "AttackPower": 20,
+    "Health": 150,
+    "Mana": 0,
+    "Level": 1,
+    "Experience": 0,
+    "Gold": 10
+  },
+  {
+    "UserId": 4,
+    "Name": "Dragon2-User4",
+    "AttackPower": 20,
+    "Health": 150,
+    "Mana": 0,
+    "Level": 1,
+    "Experience": 0,
+    "Gold": 10
+  }
+]

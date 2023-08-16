@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Views\" />
+    <None Remove="Controllers\" />
+    <None Remove="Utilities\" />
+    <None Remove="Utilities\Messages\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Utilities\" />
+    <Folder Include="Utilities\Messages\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KnightsAndDragons.Core\KnightsAndDragons.Core.csproj" />
+    <ProjectReference Include="..\KnightsAndDragons.Infrastructure\KnightsAndDragons.Infrastructure.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.4" />
+  </ItemGroup>
+</Project>
